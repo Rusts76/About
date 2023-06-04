@@ -1,5 +1,5 @@
-
-Experienced IT professional with over 10 years of expertise in Information Technology Management and Operations. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+### My name is Rustem Saitgalin
+I successfully completed the Data Analysis Professional Training Course at Practicum by Yandex. The theme of my graduation project is "Analysis of regional bank customers and user segmentation by the number of products consumed" I have additional education in the field of real estate and business valuation.
 ### Databases:
 PostgreSQL
 ### Data Analysis:
